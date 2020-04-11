@@ -9,7 +9,6 @@ My works related to balenaEtcher, an open-source utility used for writing image 
 
 <a name="introduction"></a>
 ## 1. Introduction.
-<img src="balenaEtcher.png" height="150"> 
 balenaEtcher is a free and open-source utility used for writing image files such as .iso and .img files, as well as zipped folders onto storage media to create live SD cards and USB flash drives. It is developed by balena, and licensed under Apache License 2.0. balenaEtcher was originally called Etcher, but its name was changed on October 29, 2018 when Resin.io changed its name to Balena.
 
 <a name="references"></a>
